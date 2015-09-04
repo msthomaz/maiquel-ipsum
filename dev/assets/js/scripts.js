@@ -18,7 +18,8 @@ $(function(){
         "Cada tulipa que se seca ela não volta nunca mais.",
         "Parece os caras que decoram o Alcorão, tududu dududu dududu dududu",
         "Já tenho mulher, pra que vou querer ter cabelo?",
-        "A festa de final de ano, julina, carnaval de final de quinta."
+        "A festa de final de ano, julina, carnaval de final de quinta.",
+        "Eu imitava ele, ele me imitava e um achava que tava imitando o outro."
       ],
       paragrafos : [
         "Ainda assim, existem dúvidas a respeito de como a determinação clara de objetivos oferece uma interessante oportunidade para verificação de alternativas às soluções ortodoxas. O pior é quando ela não diz mais que te ama. No mundo atual, a complexidade dos estudos efetuados estende o alcance e a importância das diretrizes de desenvolvimento para o futuro. O incentivo ao avanço tecnológico, assim como a expansão dos mercados mundiais desafia a capacidade de equalização do investimento em reciclagem técnica. Evidentemente, a consolidação das estruturas deve passar por modificações independentemente do levantamento das variáveis envolvidas.",
