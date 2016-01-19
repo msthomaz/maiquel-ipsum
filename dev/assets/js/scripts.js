@@ -22,6 +22,7 @@ $(function(){
         "Eu imitava ele, ele me imitava e um achava que tava imitando o outro.",
         "O Medo é o que nos mantem vivos. Mas uma vida sem medos não é exatamente uma vida.",
         "Eu nunca morri nessa vida."
+        "Maybe, but não sei."
       ],
       paragrafos : [
         "Ainda assim, existem dúvidas a respeito de como a determinação clara de objetivos oferece uma interessante oportunidade para verificação de alternativas às soluções ortodoxas. O pior é quando ela não diz mais que te ama. No mundo atual, a complexidade dos estudos efetuados estende o alcance e a importância das diretrizes de desenvolvimento para o futuro. O incentivo ao avanço tecnológico, assim como a expansão dos mercados mundiais desafia a capacidade de equalização do investimento em reciclagem técnica. Evidentemente, a consolidação das estruturas deve passar por modificações independentemente do levantamento das variáveis envolvidas.",
